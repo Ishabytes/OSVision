@@ -24,5 +24,6 @@ OS Vision is a Java Swing-based desktop application developed as a B.Tech Comput
 
 ## Project Type
 
-Academic / B.Tech CSE Project
-
+ B.Tech CSE Project
+## Author
+Isha Bawa 
